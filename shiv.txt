@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 shiv is editing this code
+=======
+i am editing this code
+>>>>>>> 8e0d43ea4d8dd570e0e4c1967c42cec17fa48fcd
